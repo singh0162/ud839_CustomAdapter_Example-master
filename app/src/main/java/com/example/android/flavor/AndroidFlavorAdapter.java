@@ -75,7 +75,7 @@ public class AndroidFlavorAdapter extends ArrayAdapter<AndroidFlavor> {
         // Get the version name from the current AndroidFlavor object and
         // set this text on the name TextView
 
-        //vhghj
+        //vhghjibuhbygbvytf5rde4rdtf
         nameTextView.setText(currentAndroidFlavor.getVersionName());
 
         // Find the TextView in the list_item.xml layout with the ID version_number
